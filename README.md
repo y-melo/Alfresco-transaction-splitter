@@ -5,7 +5,7 @@
   Tested in Alfresco 5.2.4
   
 ## USAGE
- See Wiki
+ [See Wiki](https://github.com/y-melo/Alfresco-transaction-splitter/wiki/Usage "See Wiki")
 
 ## Credits
 Solution to big transactions was found in
