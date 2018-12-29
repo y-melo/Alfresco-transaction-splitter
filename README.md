@@ -7,7 +7,7 @@
 ## USAGE
  [See Wiki](https://github.com/y-melo/Alfresco-transaction-splitter/wiki/Usage "See Wiki")
 
-## Credits
+## CONTRIBUTIONS
 Solution to big transactions was found in
 https://community.alfresco.com/thread/178867-relationship-between-alftransaction-and-index-recovery
 
